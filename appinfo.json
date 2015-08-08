@@ -1,0 +1,81 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "xie16a@ncssm.edu",
+    "longName": "Little Drop of Sunshine",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/locale_english.bin",
+                "name": "LOCALE_ENGLISH",
+                "type": "raw"
+            },
+            {
+                "file": "data/locale_french.bin",
+                "name": "LOCALE_FRENCH",
+                "type": "raw"
+            },
+            {
+                "file": "data/locale_german.bin",
+                "name": "LOCALE_GERMAN",
+                "type": "raw"
+            },
+            {
+                "file": "data/locale_spanish.bin",
+                "name": "LOCALE_SPANISH",
+                "type": "raw"
+            },
+            {
+                "file": "images/action_icon_check.png",
+                "name": "IMAGE_ACTION_ICON_CHECK",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_cross.png",
+                "name": "IMAGE_ACTION_ICON_CROSS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_down.png",
+                "name": "IMAGE_ACTION_ICON_DOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_up.png",
+                "name": "IMAGE_ACTION_ICON_UP",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_zz.png",
+                "name": "IMAGE_ACTION_ICON_ZZ",
+                "type": "png"
+            },
+            {
+                "file": "images/logo.png",
+                "name": "IMAGE_LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_small.png",
+                "name": "IMAGE_SMALL",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_status.png",
+                "name": "IMAGE_STATUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Sunshine",
+    "uuid": "4295289d-0fab-4991-b5ca-b509f5f57c08",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
